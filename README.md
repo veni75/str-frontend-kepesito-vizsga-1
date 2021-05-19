@@ -40,3 +40,5 @@ A következő linkekre küldött kérésekkel tudja lekérni a közreműködők 
 - [Közreműködők listája](https://developer.github.com/v3/repos/#list-contributors)
 - [Az Angular GitHub adattár 25 legjelentősebb közreműködőjének lekérdezése](https://api.github.com/repos/angular/angular/contributors?page=1&per_page=25)
 - [Felhasználói tárolók listája](https://developer.github.com/v3/repos/#list-user-repositories)
+- [Példa egy felhasználó tárolóinak a lekérésére](https://api.github.com/users/cherryApp/repos)
+
