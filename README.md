@@ -10,6 +10,11 @@ Képesítő és Átsoroló Vizsga
 - Ezen az űrlapon adja meg a kész munka adatait a vizsga befejezése előtt:
 [Feladat beadása](https://forms.office.com/r/A4CHveP7yY)
 
+## Szükséges programok
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [NodeJS](https://nodejs.org/en/)
+- [Git-scm](https://git-scm.com/)
+
 ## Fő Feladat
 Készítsünk egy egyszerű alkalmazást (Angular), amely az Angular GitHub tárolójának közreműködőit hívja le egy
 lapozható listában.
