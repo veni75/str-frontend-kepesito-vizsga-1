@@ -33,7 +33,8 @@ hány csillaggal rendelkezik, illetve az utolsó frissítés időpontját.
 2. Használja a model -> service -> component felépítést.
 2. Gondoljon a hibakezelésre a http kérések esetén.
 4. Ellenőrizze a mobil megjelenést is, az alkalmazuás reszponzív legyen.
-5. A feladatot maximum 3 óra alatt kell teljesíteni.
+5. A felületnek pontosan követnie kell az előnézetben látható mintát.
+6. A feladatot maximum 3 óra alatt kell teljesíteni.
 
 ## API-hivatkozások
 A következő linkekre küldött kérésekkel tudja lekérni a közreműködők adatait.
