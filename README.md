@@ -25,7 +25,7 @@ a. Minden egyes sorban szeretném látni a repo nevét, azt, hogy forkolt-e vagy
 hány csillaggal rendelkezik, illetve az utolsó frissítés időpontját.
 
 ## Előnézeti kép
-https://www.figma.com/file/jZKykIm34j5gLevBFqLJ36/Web-Homework-Challenge?node-id=0%3A1
+![előnézet](str-kep.JPG)
 
 ## Minőség
 1. Az alkalmazás jól skálázható, moduláris és karbantartható legyen az architekturális tervezés segítségével.
