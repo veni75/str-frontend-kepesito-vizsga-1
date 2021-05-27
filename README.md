@@ -25,7 +25,7 @@ ha görgetés közben az oldal aljára érek és még vannak továbbiak.
 egy gombot "VIEW REPOSITORIES" felirattal.
 5. A kártyán a "VIEW REPOSITORIES" gombra kattintva szeretném egy görgethető listában látni a
 a kiválasztott közreműködő tárolóit a frissítés dátuma szerint rendezve (a legfrissebb van felül).
-b. Minden egyes sorban szeretném látni a repo nevét, azt, hogy forkolt-e vagy sem, és azt, hogy 
+Minden egyes sorban szeretném látni a repo nevét, azt, hogy forkolt-e vagy sem, és azt, hogy 
 hány csillaggal rendelkezik, illetve az utolsó frissítés időpontját.
 
 ## Előnézeti kép
