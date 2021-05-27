@@ -2,11 +2,11 @@
 Képesítő és Átsoroló Vizsga
 
 ## Első lépések
-- Forkolja le magának ezt a repository -t.
-- A saját neve alatt létrejött azonos nevű repository -t klónozza le a gépére és abban dolgozzon.
-- A repository -n belül hozza létre az új Angular alkalmazást.
+- Forkolja le magának ezt a repository-t.
+- A saját neve alatt létrejött azonos nevű repository-t klónozza le a gépére és abban dolgozzon.
+- A repository-n belül hozza létre az új Angular alkalmazást.
 - A munkához a Visual Studio Code, NodeJS és Git-scm programokra lesz szüksége.
-- Ha végzett a munkával, akkor push -olja fel a repository tartalmát.
+- Ha végzett a munkával, akkor push-olja fel a repository tartalmát.
 - Ezen az űrlapon adja meg a kész munka adatait a vizsga befejezése előtt:
 [Feladat beadása](https://forms.office.com/r/A4CHveP7yY)
 
@@ -25,9 +25,9 @@ lapozható listában.
 ha görgetés közben az oldal aljára érek és még vannak továbbiak.
 3. Minden egyes kártyán szeretném látni az profilképet, a felhasználónevet, a commitok számát, egy térkép ikont és 
 egy gombot "VIEW REPOSITORIES" felirattal.
-5. A kártyán a "VIEW REPOSITORIES" gombra kattintva szeretnék egy görgethető listában látni a
+5. A kártyán a "VIEW REPOSITORIES" gombra kattintva szeretném egy görgethető listában látni a
 a kiválasztott közreműködő tárolóit a frissítés dátuma szerint rendezve (a legfrissebb van felül).
-a. Minden egyes sorban szeretném látni a repo nevét, azt, hogy forkolt-e vagy sem, és azt, hogy 
+b. Minden egyes sorban szeretném látni a repo nevét, azt, hogy forkolt-e vagy sem, és azt, hogy 
 hány csillaggal rendelkezik, illetve az utolsó frissítés időpontját.
 
 ## Előnézeti kép
@@ -36,8 +36,10 @@ hány csillaggal rendelkezik, illetve az utolsó frissítés időpontját.
 ## Minőség
 1. Az alkalmazás jól skálázható, moduláris és karbantartható legyen az architekturális tervezés segítségével.
 2. Használja a model -> service -> component felépítést.
-2. Gondoljon a hibakezelésre a http kérések esetén.
-4. Ellenőrizze a mobil megjelenést is, az alkalmazuás reszponzív legyen.
+2. Gondoljon a hibakezelésre a http kérések esetén: hiba esetén jelenjen meg felugró üzenet. Ezt az alábbi kiegészítők egyikével oldja meg:
+  [Ng Toaster](https://www.npmjs.com/package/ngx-toaster)
+  [Ng Toastr](https://www.npmjs.com/package/ngx-toastr)
+4. Ellenőrizze a mobil megjelenést is, az alkalmazás reszponzív legyen.
 5. A felületnek pontosan követnie kell az előnézetben látható mintát.
 6. A feladatot maximum 3 óra alatt kell teljesíteni.
 
