@@ -37,8 +37,8 @@ hány csillaggal rendelkezik, illetve az utolsó frissítés időpontját.
 1. Az alkalmazás jól skálázható, moduláris és karbantartható legyen az architekturális tervezés segítségével.
 2. Használja a model -> service -> component felépítést.
 2. Gondoljon a hibakezelésre a http kérések esetén: hiba esetén jelenjen meg felugró üzenet. Ezt az alábbi kiegészítők egyikével oldja meg:
-  [Ng Toaster](https://www.npmjs.com/package/ngx-toaster)
-  [Ng Toastr](https://www.npmjs.com/package/ngx-toastr)
+ - [Ng Toaster](https://www.npmjs.com/package/ngx-toaster)
+ - [Ng Toastr](https://www.npmjs.com/package/ngx-toastr)
 4. Ellenőrizze a mobil megjelenést is, az alkalmazás reszponzív legyen.
 5. A felületnek pontosan követnie kell az előnézetben látható mintát.
 6. A feladatot maximum 3 óra alatt kell teljesíteni.
