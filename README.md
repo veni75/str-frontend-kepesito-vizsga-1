@@ -1,5 +1,5 @@
 # str-frontend-kepesito-vizsga
-Képesítő és Átsoroló Vizsga
+"Bemelegítő" feladat
 
 ## Első lépések
 - Forkolja le magának ezt a repository-t.
@@ -7,8 +7,6 @@ Képesítő és Átsoroló Vizsga
 - A repository-n belül hozza létre az új Angular alkalmazást.
 - A munkához a Visual Studio Code, NodeJS és Git-scm programokra lesz szüksége.
 - Ha végzett a munkával, akkor push-olja fel a repository tartalmát.
-- Ezen az űrlapon adja meg a kész munka adatait a vizsga befejezése előtt:
-[Feladat beadása](https://forms.office.com/r/A4CHveP7yY)
 
 ## Szükséges programok
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -41,7 +39,6 @@ hány csillaggal rendelkezik, illetve az utolsó frissítés időpontját.
  - [Ng Toastr](https://www.npmjs.com/package/ngx-toastr)
 4. Ellenőrizze a mobil megjelenést is, az alkalmazás reszponzív legyen.
 5. A felületnek pontosan követnie kell az előnézetben látható mintát.
-6. A feladatot maximum 3 óra alatt kell teljesíteni.
 
 ## API-hivatkozások
 A következő linkekre küldött kérésekkel tudja lekérni a közreműködők adatait.
