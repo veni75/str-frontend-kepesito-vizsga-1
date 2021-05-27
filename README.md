@@ -23,8 +23,7 @@ lapozható listában.
 ha görgetés közben az oldal aljára érek és még vannak továbbiak.
 3. Minden egyes kártyán szeretném látni az profilképet, a felhasználónevet, a commitok számát, egy térkép ikont és 
 egy gombot "VIEW REPOSITORIES" felirattal.
-5. A kártyán a "VIEW REPOSITORIES" gombra kattintva szeretném egy görgethető listában látni a
-a kiválasztott közreműködő tárolóit a frissítés dátuma szerint rendezve (a legfrissebb van felül).
+5. A kártyán a "VIEW REPOSITORIES" gombra kattintva szeretném egy görgethető listában látni a kiválasztott közreműködő tárolóit a frissítés dátuma szerint rendezve (a legfrissebb van felül).
 Minden egyes sorban szeretném látni a repo nevét, azt, hogy forkolt-e vagy sem, és azt, hogy 
 hány csillaggal rendelkezik, illetve az utolsó frissítés időpontját.
 
