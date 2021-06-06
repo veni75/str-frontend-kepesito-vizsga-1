@@ -1,0 +1,10 @@
+<div class="card my-3 mx-1 rounded-3">
+
+    <img [src]="contributor.avatar_url" class="card-img-top mt-3 ms-3" [alt]="contributor.login">
+    <div class="card-body d-flex flex-column">
+        <h5 class="card-title">{{contributor.login}}</h5>
+        <p class="card-text">{{contributor.contributions}} commits</p>
+        
+        <a [routerLink]="['home/' + contributor.id]" class="btn btn-outline-primary mt-auto w-75 text-uppercase mx-auto">View repositories</a>
+    </div>
+</div>

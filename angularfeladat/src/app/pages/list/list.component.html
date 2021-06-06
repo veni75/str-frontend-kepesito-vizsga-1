@@ -1,0 +1,21 @@
+<div class="container-fluid">
+    <h4 class="m-3">Contributor data</h4>
+    <div class="table-responsive">
+        <table class="table" *ngIf="(contributor$ | async) as contributor">            
+            <thead class="text-primary">
+                <tr>
+                    <th>Login</th>
+                    <th>Avatar url</th>
+                    <th>Contributions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>{{contributor.login}}</td>
+                    <td>{{contributor.avatar_url}} </td>
+                    <td>{{contributor.contributions}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
