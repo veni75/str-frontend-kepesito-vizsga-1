@@ -1,19 +1,21 @@
 <div class="container-fluid">
-    <h4 class="m-3">Contributor data</h4>
+    <h4 class="m-3">Repo data</h4>
     <div class="table-responsive">
-        <table class="table" *ngIf="(contributor$ | async) as contributor">            
+        <table class="table">            
             <thead class="text-primary">
                 <tr>
-                    <th>Login</th>
-                    <th>Avatar url</th>
-                    <th>Contributions</th>
+                    <th>Name</th>
+                    <th>Forked</th>
+                    <th>Stars</th>
+                    <th>Updated</th>
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td>{{contributor.login}}</td>
-                    <td>{{contributor.avatar_url}} </td>
-                    <td>{{contributor.contributions}}</td>
+                <tr *ngFor="let repo of repoList$ | async">
+                    <td>{{repo.name}}</td>
+                    <td>{{repo.fork}} </td>
+                    <td>{{repo.stargazers_count}}</td>
+                    <td>{{repo.updated_at}}</td>
                 </tr>
             </tbody>
         </table>

@@ -22,9 +22,14 @@ export class HomeComponent implements OnInit {
 
   constructor(
     private contributorService: ContributorService,
+    private mytoastr: MytoastrService,
   ) { }
 
   ngOnInit(): void {
+    this.contributorList$.subscribe(
+      data => {},
+      error => this.mytoastr.showError()
+    );
   }
 
 }
